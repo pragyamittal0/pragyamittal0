@@ -1,5 +1,5 @@
-### Holaaaa! 👋   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula)
+### Holaaaa!👋  I'm Pragya Mittal 
+![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula)
 
 
 <!--
