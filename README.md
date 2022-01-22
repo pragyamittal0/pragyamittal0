@@ -1,5 +1,4 @@
 ### Holaaaa!👋  I'm Pragya Mittal 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatime)](https://github.com/anuraghazra/github-readme-stats)
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula)
 
 
