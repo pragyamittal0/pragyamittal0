@@ -2,12 +2,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pragyamittal0)](https://github.com/anuraghazra/github-readme-stats)
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragyamittal0&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula" />
-</a>
+
 <!--
 **pragyamittal0/pragyamittal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
