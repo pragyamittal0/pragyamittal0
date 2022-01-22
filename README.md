@@ -1,5 +1,4 @@
-### Holaaaa! 👋 
-(![pragya Mittal](https://user-images.githubusercontent.com/69578414/150649184-09102fa6-39f9-4b94-aa97-8e8630d9da15.jpeg))
+### Holaaaa! 👋    ![pragya Mittal](https://user-images.githubusercontent.com/69578414/150649184-09102fa6-39f9-4b94-aa97-8e8630d9da15.jpeg)
 
 
 <!--
