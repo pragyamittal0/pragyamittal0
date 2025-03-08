@@ -1,5 +1,5 @@
 ### Holaaaa!👋  I'm Pragya Mittal 
-![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyamittal0&show_icons=true&theme=dracula)
+
 [![@pragyamittal10's Holopin board](https://holopin.me/pragyamittal10)](https://holopin.io/@pragyamittal10)
 <!--
 **pragyamittal0/pragyamittal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
